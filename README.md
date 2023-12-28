@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roberto-40K
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning C# and .NET
 - 📫 How to reach me robertocarlossantos99@gmail.com
 
 <!---
